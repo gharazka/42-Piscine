@@ -32,8 +32,8 @@ Exam00-03 - every Friday there's an exam held - for Exams00-02 4 hour exam with 
 # Exam results
 
 | Exams | Results |
-| ------ | ------ |
-| Exam00 | [70%] | 
-| Exam01 | [100%] |
-| Exam02 | [90%]| 
-| Exam03 | [84%]| 
+| ------ | ---- |
+| Exam00 | 70% | 
+| Exam01 | 100% |
+| Exam02 | 90% | 
+| Exam03 | 84% | 
