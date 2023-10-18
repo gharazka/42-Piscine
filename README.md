@@ -6,7 +6,7 @@ Shell00/01 - exercises made to get acquainted with Shell <br />
 C00-11 - exercises getting harder with every module to learn C language <br />
 Rush00-02 - weekend 3 person group projects <br />
 BSQ - last week 2 person group project <br />
-Exam00-03 - every Friday there's an exam held - for Exams00-02 4 hour exam with 10 exercises, for Exam03 8hour exam with 16 exercises <br />
+Exam00-03 - every Friday there's an exam held - for Exams00-02 4 hour exam with 10 exercises, for Exam03 8 hour exam with 16 exercises <br />
 
 # Table of projects
 | Projects | Results |
