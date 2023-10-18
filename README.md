@@ -9,7 +9,8 @@ BSQ - last week 2 person group project
 Exam00-03 - every Friday there's an exam held - for Exams00-02 4 hour exam with 10 exercises, for Exam03 8hour exam with 16 exercises
 
 # Table of projects
-
+| Projects | Results |
+| -------- | -------- |
 | Shell00 | [70%](./Shell00) |
 | Shell01 |  [70%](./Shell01)  |
 | C00 | [100%](./C00) | 
